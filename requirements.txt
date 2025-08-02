@@ -1,0 +1,5 @@
+pandas
+prophet
+matplotlib
+mysql-connector-python
+faker

